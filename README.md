@@ -1,6 +1,6 @@
 # LiteDB-Bridge
 
-It's a model and a provider class that allow you to create object related data providers without any custom coding for LiteDB databases.
+It's a model and a provider class that allow you to create object related data providers with pre-defined CRUD operatios without any custom coding for LiteDB databases.
 <br>
 # How to use
 1- Extend AbstractEntityModel class to create your own model classes.<br>
